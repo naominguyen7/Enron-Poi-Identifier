@@ -1,0 +1,2 @@
+- feature_format.py: Modified file. Add feature scaling and option to fill NAs with medians.
+- References.txt: where I cited. No references.
