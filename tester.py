@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #!/usr/bin/pickle
 
 """ a basic script for importing student's POI identifier,
@@ -106,8 +106,9 @@ def main():
 
 if __name__ == '__main__':
     main()
-||||||| merged common ancestors
-=======
+
+
+    
 #!/usr/bin/pickle
 
 """ a basic script for importing student's POI identifier,
@@ -215,4 +216,4 @@ def main():
 
 if __name__ == '__main__':
     main()
->>>>>>> 0828c43b2611f065e42cd03f5d6cecc9f894c289
+
