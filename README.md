@@ -9,5 +9,19 @@ This is a project for my Data Science course at Udacity, and the code for featur
 
 
 
-- feature_format.py: Modified file. Add Option to fill NAs with medians.
+- feature_format.py: Modified file from Udacity's. Add Option to fill NAs with medians.
+    + converting data from dict form to numpy matrix for easy computation & manipulation
+    + replace missing values with 0s or medians of the feature.
+    + separating the data matrix to a vector of labels and a matrix of features
+    
+- my_classifier.pkl: Classifier with best performance
+
+- my_dataset.pkl
+- my_feature_list.pkl
+
+- tester.py: include a function to test the classfier performance. 
+    + employ stratified random shuffled splitting (since this is a small, skewed dataset)
+    + give sensitivity, specificity, f1 score, accuracy
+    
+
 
