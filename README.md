@@ -8,6 +8,7 @@ This is a project for my Data Science course at Udacity, and the code for featur
 
 
 
+- poi_id.ipynb: Report with snippets of code. Can be used to run and generated the results.
 
 - feature_format.py: Modified file from Udacity's. Add Option to fill NAs with medians.
     + converting data from dict form to numpy matrix for easy computation & manipulation
